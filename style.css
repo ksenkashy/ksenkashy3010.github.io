@@ -1,8 +1,10 @@
 form {
   width: 300px;
   margin: auto;
-  border: 1px solid #ccc;
+  border: blur(5px);
   border-radius: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
   padding: 20px;
 }
 
